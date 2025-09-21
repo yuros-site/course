@@ -1,0 +1,11 @@
+@media only screen and (min-width: 1280px) {
+  #menu .leaf a {
+    margin-bottom: 1.75rem; } }
+
+#team .box {
+  position: relative;
+  background-color: var(--background-02); }
+
+#team .author img {
+  width: 32px;
+  height: 32px; }

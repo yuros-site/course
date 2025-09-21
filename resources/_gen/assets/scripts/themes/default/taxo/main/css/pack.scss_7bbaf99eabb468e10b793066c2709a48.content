@@ -1,0 +1,111 @@
+#feat .leaf .main .thumb {
+  margin-bottom: 1.5rem; }
+
+#feat .leaf .col-3 {
+  grid-template-columns: repeat(4, calc( 25% - 2.5rem));
+  grid-gap: 2.5rem; }
+
+#feat .leaf .col-2 {
+  grid-template-columns: repeat(2, calc( 50% - 5rem));
+  grid-gap: 2rem 5rem; }
+  #feat .leaf .col-2 .card {
+    display: flex; }
+    #feat .leaf .col-2 .card .thumb, #feat .leaf .col-2 .card img {
+      width: 110px;
+      height: 110px; }
+    #feat .leaf .col-2 .card .metas {
+      margin-left: 2rem; }
+    #feat .leaf .col-2 .card .author img {
+      width: 32px;
+      height: 32px; }
+
+#feat .card .space {
+  flex-direction: column;
+  justify-content: space-between; }
+
+@media only screen and (min-width: 1024px) {
+  #feat {
+    margin-bottom: 7rem; }
+    #feat .leaf .main {
+      margin-bottom: 4rem; } }
+
+#term ul, #term li {
+  list-style: none; }
+
+#term .card.text {
+  display: flex; }
+  #term .card.text .thumb, #term .card.text img {
+    width: 110px;
+    height: 110px; }
+  #term .card.text .metas {
+    margin-left: 2rem; }
+  #term .card.text .author img {
+    width: 32px;
+    height: 32px; }
+
+#box-1 .main h2 {
+  text-wrap: nowrap;
+  padding: 0 1.5rem 0 0; }
+
+@media only screen and (min-width: 1280px) {
+  #box-1 .leaf {
+    grid-template-columns: 62% 28%;
+    justify-content: space-between; }
+  #box-1 .main .leaf {
+    grid-template-columns: repeat(2, calc( 50% - 1.5rem));
+    justify-content: space-between;
+    grid-gap: 3rem; } }
+
+#box-2 h2 {
+  text-wrap: nowrap;
+  padding: 0 1.5rem 0 0; }
+
+@media only screen and (min-width: 1024px) {
+  #box-2 .rows {
+    grid-template-columns: repeat(3, calc( 33.333% - 3%));
+    justify-content: space-between; } }
+
+#box-3 h2 {
+  text-wrap: nowrap;
+  padding: 0 1.5rem 0 0; }
+
+#box-4 h2 {
+  text-wrap: nowrap;
+  padding: 0 1.5rem 0 0; }
+
+@media only screen and (min-width: 1280px) {
+  #box-4 .rows {
+    grid-template-columns: repeat(3, calc( 33.333% - 3%));
+    justify-content: space-between; } }
+
+#list h2 {
+  text-wrap: nowrap;
+  padding: 0 1.5rem 0 0; }
+
+#list .thumb {
+  width: 100px;
+  height: 100px; }
+
+#list .author img {
+  width: 28px;
+  height: 28px; }
+
+@media only screen and (min-width: 1024px) {
+  #list .head {
+    margin-bottom: 5.5rem; }
+  #list .thumb {
+    width: 160px;
+    height: 160px; } }
+
+#book .leaf .icon {
+  padding: 8px;
+  background-color: orangered;
+  border-radius: 8px; }
+  #book .leaf .icon .overlay {
+    color: var(--color-01); }
+    #book .leaf .icon .overlay svg {
+      width: 2rem;
+      height: 2rem; }
+
+.side .head h2 {
+  width: 140px; }

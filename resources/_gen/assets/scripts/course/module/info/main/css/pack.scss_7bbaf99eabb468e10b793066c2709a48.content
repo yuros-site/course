@@ -1,0 +1,36 @@
+#lead .head {
+  margin-bottom: 2rem; }
+
+#lead .leaf {
+  grid-gap: 1rem; }
+
+#lead .card img {
+  width: 100%;
+  height: auto;
+  display: none; }
+
+#lead .card .number {
+  width: 1.75rem;
+  height: 1.75rem;
+  min-width: 1.75rem;
+  background-color: var(--background-02); }
+
+@media only screen and (min-width: 768px) {
+  #lead .leaf {
+    grid-template-columns: repeat(2, 47.5%);
+    grid-gap: 5%; }
+  #lead .card img {
+    display: block; } }
+
+@media only screen and (min-width: 1280px) {
+  #lead .leaf {
+    grid-template-columns: repeat(2, 47.5%);
+    grid-gap: 5%; } }
+
+#team .leaf .team {
+  grid-template-columns: repeat(auto-fill, calc( 60px - 10px));
+  justify-content: normal;
+  grid-gap: 1.5rem; }
+
+#team .leaf .thumb {
+  overflow: hidden; }

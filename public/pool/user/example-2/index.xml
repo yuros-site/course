@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course 2 Horizontal adalah garis yang paralel on Rozard Bahasa</title>
+    <link>http://localhost:1313/pool/user/example-2/</link>
+    <description>Recent content in Course 2 Horizontal adalah garis yang paralel on Rozard Bahasa</description>
+    <generator>Hugo</generator>
+    <language>id-ID</language>
+    <atom:link href="http://localhost:1313/pool/user/example-2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example - Assigment Default</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-main/</guid>
+      <description>&lt;h2 id=&#34;pengerjaan&#34;&gt;Pengerjaan&lt;/h2&gt;&#xA;&lt;p&gt;Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &amp;ldquo;de Finibus Bonorum et Malorum&amp;rdquo; (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, &amp;ldquo;Lorem ipsum dolor sit amet..&amp;rdquo;, comes from a line in section 1.10.32.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Example - Format Article</title>
+      <link>http://localhost:1313/pool/user/example-2/repo/module-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/repo/module-1/</guid>
+      <description>&lt;h2 id=&#34;heading&#34;&gt;Heading&lt;/h2&gt;&#xA;&lt;h1 id=&#34;h1&#34;&gt;H1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;h2&#34;&gt;H2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;h3&#34;&gt;H3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;h4&#34;&gt;H4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;h5&#34;&gt;H5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;h6&#34;&gt;H6&lt;/h6&gt;&#xA;&lt;h2 id=&#34;formater&#34;&gt;Formater&lt;/h2&gt;&#xA;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Strong emphasis, aka bold, with &lt;strong&gt;asterisks&lt;/strong&gt; or &lt;strong&gt;underscores&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Combined emphasis with &lt;strong&gt;asterisks and &lt;em&gt;underscores&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Strikethrough uses two tildes. &lt;del&gt;Scratch this.&lt;/del&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;listing&#34;&gt;Listing&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ordered&#34;&gt;ordered&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;First ordered list item&lt;/li&gt;&#xA;&lt;li&gt;Another item&lt;/li&gt;&#xA;&lt;li&gt;Actual numbers don&amp;rsquo;t matter, just that it&amp;rsquo;s a number&lt;/li&gt;&#xA;&lt;li&gt;And another item.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;unordered&#34;&gt;unordered&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Unordered list can use asterisks&lt;/li&gt;&#xA;&lt;li&gt;Or minuses&lt;/li&gt;&#xA;&lt;li&gt;Or pluses&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;link&#34;&gt;link&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.google.com&#34;&gt;I&amp;rsquo;m an inline-style link&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Example - Format Article</title>
+      <link>http://localhost:1313/pool/user/example-2/repo/module-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/repo/module-2/</guid>
+      <description>&lt;h2 id=&#34;heading&#34;&gt;Heading&lt;/h2&gt;&#xA;&lt;h1 id=&#34;h1&#34;&gt;H1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;h2&#34;&gt;H2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;h3&#34;&gt;H3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;h4&#34;&gt;H4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;h5&#34;&gt;H5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;h6&#34;&gt;H6&lt;/h6&gt;&#xA;&lt;h2 id=&#34;formater&#34;&gt;Formater&lt;/h2&gt;&#xA;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Strong emphasis, aka bold, with &lt;strong&gt;asterisks&lt;/strong&gt; or &lt;strong&gt;underscores&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Combined emphasis with &lt;strong&gt;asterisks and &lt;em&gt;underscores&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Strikethrough uses two tildes. &lt;del&gt;Scratch this.&lt;/del&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;listing&#34;&gt;Listing&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ordered&#34;&gt;ordered&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;First ordered list item&lt;/li&gt;&#xA;&lt;li&gt;Another item&lt;/li&gt;&#xA;&lt;li&gt;Actual numbers don&amp;rsquo;t matter, just that it&amp;rsquo;s a number&lt;/li&gt;&#xA;&lt;li&gt;And another item.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;unordered&#34;&gt;unordered&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Unordered list can use asterisks&lt;/li&gt;&#xA;&lt;li&gt;Or minuses&lt;/li&gt;&#xA;&lt;li&gt;Or pluses&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;link&#34;&gt;link&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.google.com&#34;&gt;I&amp;rsquo;m an inline-style link&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Example - Format Assigment Gitbase</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-git/</guid>
+      <description>&lt;h2 id=&#34;pengerjaan&#34;&gt;Pengerjaan&lt;/h2&gt;&#xA;&lt;p&gt;Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &amp;ldquo;de Finibus Bonorum et Malorum&amp;rdquo; (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, &amp;ldquo;Lorem ipsum dolor sit amet..&amp;rdquo;, comes from a line in section 1.10.32.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Example - Format Assigment Quiz</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-meet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-meet/</guid>
+      <description>&lt;h2 id=&#34;pengerjaan&#34;&gt;Pengerjaan&lt;/h2&gt;&#xA;&lt;p&gt;Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &amp;ldquo;de Finibus Bonorum et Malorum&amp;rdquo; (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, &amp;ldquo;Lorem ipsum dolor sit amet..&amp;rdquo;, comes from a line in section 1.10.32.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Example - Format Assigment Quiz</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-quiz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-quiz/</guid>
+      <description>&lt;h2 id=&#34;pengerjaan&#34;&gt;Pengerjaan&lt;/h2&gt;&#xA;&lt;p&gt;Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &amp;ldquo;de Finibus Bonorum et Malorum&amp;rdquo; (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, &amp;ldquo;Lorem ipsum dolor sit amet..&amp;rdquo;, comes from a line in section 1.10.32.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Example - Task Default</title>
+      <link>http://localhost:1313/pool/user/example-2/task/task-main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/task/task-main/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Example - Task Git</title>
+      <link>http://localhost:1313/pool/user/example-2/task/task-git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/task/task-git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas A</title>
+      <link>http://localhost:1313/pool/user/example-2/node/class-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/node/class-a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Museum Digital</title>
+      <link>http://localhost:1313/pool/user/example-2/info/session-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/info/session-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gallery Digital</title>
+      <link>http://localhost:1313/pool/user/example-2/info/session-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/info/session-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas B</title>
+      <link>http://localhost:1313/pool/user/example-2/node/class-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/node/class-b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas C</title>
+      <link>http://localhost:1313/pool/user/example-2/node/class-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/node/class-c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Session 3</title>
+      <link>http://localhost:1313/pool/user/example-2/info/session-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/info/session-3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arsip Digital</title>
+      <link>http://localhost:1313/pool/user/example-2/info/session-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/info/session-4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas D</title>
+      <link>http://localhost:1313/pool/user/example-2/node/class-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/node/class-d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perpustakaan Digital</title>
+      <link>http://localhost:1313/pool/user/example-2/info/session-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/info/session-5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas A</title>
+      <link>http://localhost:1313/pool/user/example-2/task/task-git/class-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/task/task-git/class-a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas A</title>
+      <link>http://localhost:1313/pool/user/example-2/task/task-main/class-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/task/task-main/class-a/</guid>
+      <description>&lt;p&gt;Kontent A&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kelas A</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-git/class-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-git/class-a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas A</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-main/class-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-main/class-a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas A</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-meet/class-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-meet/class-a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas A</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-quiz/class-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-quiz/class-a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas B</title>
+      <link>http://localhost:1313/pool/user/example-2/task/task-git/class-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/task/task-git/class-b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas B</title>
+      <link>http://localhost:1313/pool/user/example-2/task/task-main/class-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/task/task-main/class-b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas B</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-git/class-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-git/class-b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas B</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-main/class-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-main/class-b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas B</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-meet/class-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-meet/class-b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas B</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-quiz/class-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-quiz/class-b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas C</title>
+      <link>http://localhost:1313/pool/user/example-2/task/task-git/class-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/task/task-git/class-c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas C</title>
+      <link>http://localhost:1313/pool/user/example-2/task/task-main/class-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/task/task-main/class-c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas C</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-git/class-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-git/class-c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas C</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-main/class-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-main/class-c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas C</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-meet/class-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-meet/class-c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas C</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-quiz/class-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-quiz/class-c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas D</title>
+      <link>http://localhost:1313/pool/user/example-2/task/task-git/class-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/task/task-git/class-d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas D</title>
+      <link>http://localhost:1313/pool/user/example-2/task/task-main/class-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/task/task-main/class-d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas D</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-git/class-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-git/class-d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas D</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-main/class-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-main/class-d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas D</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-meet/class-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-meet/class-d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kelas D</title>
+      <link>http://localhost:1313/pool/user/example-2/test/test-quiz/class-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pool/user/example-2/test/test-quiz/class-d/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

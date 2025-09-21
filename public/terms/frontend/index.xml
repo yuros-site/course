@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frontend on Rozard Bahasa</title>
+    <link>http://localhost:1313/terms/frontend/</link>
+    <description>Recent content in Frontend on Rozard Bahasa</description>
+    <generator>Hugo</generator>
+    <language>id-ID</language>
+    <atom:link href="http://localhost:1313/terms/frontend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pemograman Website Dasar</title>
+      <link>http://localhost:1313/course/pool/null/pemograman-website-dasar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/course/pool/null/pemograman-website-dasar/</guid>
+      <description>&lt;p&gt;Mata kuliah ini memberikan pemahaman mengenai konsep, teknologi, dan aplikasi perpustakaan digital. Mahasiswa akan mempelajari bagaimana mengelola, menyimpan, mengakses, dan mendistribusikan informasi digital. Pembahasan mencakup teknologi informasi yang digunakan dalam sistem perpustakaan dana arsip digital, metadata, hak cipta, serta tren terbaru dalam pengelolaan perpustakaan dan lembaga arsip berbasis digital.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

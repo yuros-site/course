@@ -1,10 +1,5 @@
 module github.com/yuros-site/course
 
-replace (
-	github.com/almuhdilkarim/webdev-basic => /home/devel/project/personal/lecture/webdev-basic
-	github.com/rozard-genset/corest 	  => /home/devel/project/rozard/system/corest
-	github.com/rozard-genset/course 	  => /home/devel/project/rozard/system/course
-)
 
 go 1.25.1
 

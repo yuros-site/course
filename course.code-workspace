@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../rozard/system/devels"
+		},
+		{
+			"path": "../../../rozard/system/course"
+		},
+		{
+			"path": "../../../rozard/system/corest"
+		},
+		{
+			"path": "../../../rozard/course/default"
+		}
+	],
+	"settings": {}
+}

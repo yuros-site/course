@@ -1,0 +1,6 @@
+baseURL: "https://localhost/"
+languageCode: "id-ID"
+enableRobotsTXT: true
+defaultContentLanguage: id
+
+

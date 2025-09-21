@@ -1,0 +1,47 @@
+main:
+  - name: Home
+    pageRef: /
+    weight: 10
+  - name: Course
+    pageRef: /course
+    weight: 20
+
+footer_top_01:
+  - name: Home
+    pageRef: /
+    weight: 10
+  - name: Course
+    pageRef: /course
+    weight: 20
+
+footer_top_02:
+  - name: Home
+    pageRef: /
+    weight: 10
+  - name: Course
+    pageRef: /course
+    weight: 20
+
+footer_top_03:
+  - name: Home
+    pageRef: /
+    weight: 10
+  - name: Course
+    pageRef: /course
+    weight: 20
+
+footer_top_04:
+  - name: Home
+    pageRef: /
+    weight: 10
+  - name: Course
+    pageRef: /course
+    weight: 20
+
+footer_bottom:
+  - name: Home
+    pageRef: /
+    weight: 10
+  - name: Course
+    pageRef: /course
+    weight: 20

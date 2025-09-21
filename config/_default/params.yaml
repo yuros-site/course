@@ -1,0 +1,72 @@
+system:
+  name: true
+  font: 
+    - name : lato 
+      weight: [ "100", "200", "300", "400" ]
+    - name : figtree 
+      weight: [ "100", "200", "300", "400" ]
+  models: ""
+  themes: ""
+  parted:
+    header: header
+    footer: footer
+
+
+stories:
+  layout: "default"
+  config:
+    register: false
+    readlist: false
+    recomend: false
+    subscribe: true
+  pagenav: 2
+  section: [ "cerita", "horor" ]
+
+course:
+  layout: "default"
+  config:
+  pagenav: 3
+  section: [ "kampus", "orange" ]
+
+
+
+profile:
+  logo: ""
+  name: ""
+  desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard."
+  social:
+    twitter: ""
+    facebook: ""
+    linkedin: ""
+    instagram: ""
+  canals:
+    matrix: ""
+    youtube: ""
+    discord: ""
+    spotify: ""
+  forums:
+    disqus: ""
+    discord: ""
+    telegram: ""
+  report:
+    github: ""
+    gitlab: ""
+  gitrepo:
+    github: ""
+    gitlab: ""
+  contact:
+    email: ""
+    phone: ""
+    faximile: ""
+    whatsapp: ""
+    telegram: ""
+  address:
+    - "Tokopedia Tower Ciputra World 2, South Jakarta City, Jakarta 12950"
+
+
+footer:
+  head_1 : "service"
+  head_2 : "About"
+  head_3 : "Involve"
+  head_4 : "Patner"
+

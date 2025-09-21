@@ -1,0 +1,18 @@
+id:
+    disabled: false
+    languageCode: id-ID
+    languageDirection: ltr
+    languageName: Indonesia
+    params:
+      subtitle: Referenz, Tutorials und Erklärungen
+    title: Rozard Bahasa
+    weight: 1
+en:
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    params:
+      subtitle: Reference, Tutorials, and Explanations
+    title: Rozard English
+    weight: 2

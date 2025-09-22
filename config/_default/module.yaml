@@ -1,4 +1,4 @@
 imports:
-  - path: github.com/rozard-genset/micros
+  - path: github.com/rozard-genset/corest
   - path: github.com/rozard-genset/course
   - path: github.com/almuhdilkarim/webdev-basic

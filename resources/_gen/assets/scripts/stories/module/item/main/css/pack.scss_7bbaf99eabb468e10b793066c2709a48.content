@@ -1,7 +1,0 @@
-#team .box {
-  position: relative;
-  background-color: var(--background-02); }
-
-#team .author img {
-  width: 32px;
-  height: 32px; }

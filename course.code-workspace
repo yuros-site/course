@@ -1,18 +1,27 @@
 {
 	"folders": [
 		{
+			"name": "course",
 			"path": "."
 		},
 		{
-			"path": "../../../rozard/system/devels"
-		},
-		{
-			"path": "../../../rozard/system/course"
-		},
-		{
+			"name": "corest",
 			"path": "../../../rozard/system/corest"
 		},
 		{
+			"name": "micros",
+			"path": "../../../rozard/system/micros"
+		},
+		{
+			"name": "devels",
+			"path": "../../../rozard/system/devels"
+		},
+		{
+			"name": "course",
+			"path": "../../../rozard/system/course"
+		},
+		{
+			"name": "default",
 			"path": "../../../rozard/course/default"
 		}
 	],
